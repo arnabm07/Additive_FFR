@@ -7,6 +7,8 @@ Additive Function-on-Function Regression (AFF-PC)
 by Janet S. Kim, Ana-Maria Staicu, Arnab Maity, Raymond J. Carroll, and David Ruppert <br>
 Nov/07/2016 <br>
 
+Kim, J., Staicu, A-M., Maity, A., Carroll, R.J. and Ruppert. D. (2018). Additive Function-on-Function Regression, Journal of Computational and Graphical Statistics, 27:1, 234 - 244. https://doi.org/10.1080/10618600.2017.1356730
+
 CONTENTS:
 
 I.	datagenALL.r
